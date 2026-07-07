@@ -1,5 +1,13 @@
 # 🎓 SnapClass AI
 
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+
+![Streamlit](https://img.shields.io/badge/Streamlit-Deployed-red)
+
+![Supabase](https://img.shields.io/badge/Database-Supabase-green)
+
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 ### AI-Powered Smart Attendance System using Face Recognition & Voice Authentication
 
 Mark attendance securely with Artificial Intelligence.
@@ -75,6 +83,8 @@ The project includes dedicated dashboards for students and teachers, QR-based su
 - Git
 - GitHub
 
+
+```text
 User
    │
    ▼
@@ -91,9 +101,11 @@ Streamlit Application
             │
             ▼
          Supabase
+```
 
 
 ## 📸 Screenshots
+
 
 ### Landing Page
 
@@ -117,12 +129,13 @@ Streamlit Application
 
 ![Attendance](assets/screenshots/attendance.png)
 
+
 ## ⚙️ Installation
 
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/SnapClass-AI.git
+git clone https://github.com/Saif-codes-cell/SnapClass
 ```
 
 Move into the project
@@ -145,18 +158,21 @@ Run the application
 streamlit run app.py
 ```
 
-SnapClass-AI/
+## 📂 Folder Structure
 
+```text
+SnapClass-AI/
 ├── assets/
 │   └── screenshots/
-│
 ├── src/
-│
 ├── app.py
 ├── requirements.txt
 ├── README.md
 ├── LICENSE
 └── .gitignore
+```
+
+
 
 ## 🚀 Future Enhancements
 
@@ -171,6 +187,8 @@ SnapClass-AI/
 - 🔔 Real-time attendance notifications
 - 🐳 Docker support and CI/CD pipeline
 
+
+
 ## 💡 Challenges & Learnings
 
 During the development of SnapClass AI, I worked through several real-world challenges including:
@@ -183,6 +201,7 @@ During the development of SnapClass AI, I worked through several real-world chal
 - Optimizing application performance
 
 This project strengthened my practical skills in Python, AI integration, cloud deployment, and full-stack application development.
+
 
 ## 👨‍💻 Author
 
@@ -198,6 +217,32 @@ https://github.com/Saif-codes-cell/snapclass-landing
 LinkedIn:
 https://linkedin.com/in/saif-chogle
 
+
+
 ## 📜 License
 
 This project is licensed under the MIT License.
+
+
+## 🎥 Demo
+
+### 🌐 Live Demo
+https://your-streamlit-link.streamlit.app
+
+### 🏠 Landing Page
+https://your-vercel-link.vercel.app
+
+
+## 🙏 Acknowledgements
+
+This project was inspired by the idea of making classroom attendance smarter through Artificial Intelligence.
+
+Special thanks to the open-source community and the libraries that made this project possible.
+
+
+## 🤖 AI Components
+
+- Face Recognition using face_recognition
+- Voice Authentication using Resemblyzer
+- Image Processing with OpenCV
+- Audio Feature Extraction using Librosa
