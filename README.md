@@ -14,9 +14,9 @@
 Mark attendance securely with Artificial Intelligence.
 Built using Python, Streamlit, Supabase, Face Recognition, and Voice Authentication.
 
-🌐 **Live Demo:** https://your-demo-link.streamlit.app
+🌐 **Live Demo:** https://saif-snapclass.streamlit.app
 
-💻 **Landing Page:** https://your-vercel-link.vercel.app
+💻 **Landing Page:** https://snapclass-landing-one.vercel.app
 
 ⭐ If you like this project, consider giving it a star!
 
@@ -231,14 +231,6 @@ https://linkedin.com/in/saif-chogle
 
 This project is licensed under the MIT License.
 
-
-## 🎥 Demo
-
-### 🌐 Live Demo
-https://saif-snapclass.streamlit.app
-
-### 🏠 Landing Page
-https://snapclass-landing-one.vercel.app
 
 
 ## 🙏 Acknowledgements
