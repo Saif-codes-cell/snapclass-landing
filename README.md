@@ -1,4 +1,4 @@
-# 🎓 SnapClass AI
+   # 🎓 SnapClass AI
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 
@@ -7,6 +7,7 @@
 ![Supabase](https://img.shields.io/badge/Database-Supabase-green)
 
 ![License](https://img.shields.io/badge/License-MIT-yellow)
+
 
 ### AI-Powered Smart Attendance System using Face Recognition & Voice Authentication
 
@@ -18,6 +19,7 @@ Built using Python, Streamlit, Supabase, Face Recognition, and Voice Authenticat
 💻 **Landing Page:** https://your-vercel-link.vercel.app
 
 ⭐ If you like this project, consider giving it a star!
+
 
 -------------------------------------------------------------
                SNAPCLASS AI
@@ -33,6 +35,7 @@ Student Dashboard
 Powered by Python + Streamlit + Supabase
 -------------------------------------------------------------
 
+
 ## 📖 About the Project
 
 SnapClass AI is an AI-powered attendance management system that replaces traditional attendance methods with intelligent authentication.
@@ -40,6 +43,7 @@ SnapClass AI is an AI-powered attendance management system that replaces traditi
 The application combines Face Recognition and Voice Authentication to verify students before recording attendance, making the process faster, more secure, and more reliable.
 
 The project includes dedicated dashboards for students and teachers, QR-based subject enrollment, attendance reports, and a responsive landing page.
+
 
 ## ✨ Features
 
@@ -53,6 +57,7 @@ The project includes dedicated dashboards for students and teachers, QR-based su
 - ☁️ Supabase Database Integration
 - 🌐 Streamlit Deployment
 - 🚀 Responsive Landing Page
+
 
 ## 🛠 Tech Stack
 
@@ -84,8 +89,10 @@ The project includes dedicated dashboards for students and teachers, QR-based su
 - GitHub
 
 
-```text
-User
+
+## 🏗️ Project Architecture
+
+  User
    │
    ▼
 Landing Page (Vercel)
@@ -102,6 +109,7 @@ Streamlit Application
             ▼
          Supabase
 ```
+
 
 
 ## 📸 Screenshots
@@ -212,7 +220,7 @@ B.Sc. Computer Science Student
 AI & Machine Learning Enthusiast
 
 GitHub:
-https://github.com/Saif-codes-cell/snapclass-landing
+https://github.com/Saif-codes-cell/SnapClass
 
 LinkedIn:
 https://linkedin.com/in/saif-chogle
@@ -227,10 +235,10 @@ This project is licensed under the MIT License.
 ## 🎥 Demo
 
 ### 🌐 Live Demo
-https://your-streamlit-link.streamlit.app
+https://saif-snapclass.streamlit.app
 
 ### 🏠 Landing Page
-https://your-vercel-link.vercel.app
+https://snapclass-landing-one.vercel.app
 
 
 ## 🙏 Acknowledgements
